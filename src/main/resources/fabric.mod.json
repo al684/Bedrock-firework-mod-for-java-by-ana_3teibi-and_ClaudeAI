@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "bedrockfireworks",
+  "version": "${version}",
+  "name": "Bedrock Fireworks",
+  "description": "Makes elytra firework boosting follow Bedrock-style mechanics.",
+  "authors": ["انا عتيبي"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.antbasi.bedrockfireworks.BedrockFireworks"],
+    "client": ["com.antbasi.bedrockfireworks.client.BedrockFireworksClient"]
+  },
+  "mixins": ["bedrockfireworks.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

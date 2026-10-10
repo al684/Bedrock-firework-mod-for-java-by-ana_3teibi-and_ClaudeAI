@@ -1,0 +1,14 @@
+{
+  "key.bedrockfireworks.open": "فتح إعدادات Fireworks",
+  "key.categories.bedrockfireworks": "مود Bedrock Fireworks",
+  "bedrockfireworks.screen.title": "إعدادات Fireworks",
+  "bedrockfireworks.on": "مفعّل",
+  "bedrockfireworks.off": "معطّل",
+  "bedrockfireworks.enabled": "المود: %s",
+  "bedrockfireworks.snap": "التحكم الفوري بالاتجاه: %s",
+  "bedrockfireworks.boostSpeed": "سرعة الدفع: %s",
+  "bedrockfireworks.horizontal": "حركة Fireworks الأفقية: %s",
+  "bedrockfireworks.vertical": "تسارع Fireworks للأعلى: %s",
+  "bedrockfireworks.reset": "إعادة الضبط",
+  "bedrockfireworks.done": "حفظ وإغلاق"
+}
